@@ -1,11 +1,8 @@
-Moodle Plugins
-=============
+moodle2_mod_start
+=================
 
-This repository is used to host all of our Moodle plugins that we've created.
-Each plugin is stored in its own branch. The plugins should attempt to be named
-in a standard way. The way I propose is:
+Installation
+------------
 
-moodle(1|2)_plugintype_name
-
-If anyone has a better idea for naming these plugins please file a pull request
-on this file.
+1. Clone the repostiory to: <strong>`<moodle_path>/mod/start`</strong>
+2. Go to the Notifications link in Moodle after logging in as an admin.
